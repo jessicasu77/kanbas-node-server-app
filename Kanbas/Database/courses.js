@@ -2,6 +2,7 @@ export default [
     {
       _id: "RS101",
       name: "Rocket Propulsion",
+      img_path: "/images/cat.jpeg",
       number: "RS4550",
       startDate: "2023-01-10",
       endDate: "2023-05-15",
@@ -13,6 +14,7 @@ export default [
     {
       _id: "RS102",
       name: "Aerodynamics",
+      img_path: "/images/dog.jpeg",
       number: "RS4560",
       startDate: "2023-01-10",
       endDate: "2023-05-15",
@@ -24,6 +26,7 @@ export default [
     {
       _id: "RS103",
       name: "Spacecraft Design",
+      img_path: "/images/cat.jpeg",
       number: "RS4570",
       startDate: "2023-01-10",
       endDate: "2023-05-15",
@@ -35,6 +38,7 @@ export default [
     {
       _id: "RS104",
       name: "Organic Chemistry",
+      img_path: "/images/singapore.jpeg",
       number: "CH1230",
       startDate: "2023-01-10",
       endDate: "2023-05-15",
@@ -46,6 +50,7 @@ export default [
     {
       _id: "RS105",
       name: "Inorganic Chemistry",
+      img_path: "/images/cat.jpeg",
       number: "CH1240",
       startDate: "2023-01-10",
       endDate: "2023-05-15",
@@ -57,6 +62,7 @@ export default [
     {
       _id: "RS106",
       name: "Physical Chemistry",
+      img_path: "/images/dog.jpeg",
       number: "CH1250",
       startDate: "2023-01-10",
       endDate: "2023-05-15",
@@ -68,6 +74,7 @@ export default [
     {
       _id: "RS107",
       name: "Ancient Languages and Scripts of Middle-earth",
+      img_path: "/images/singapore.jpeg",
       number: "ME101",
       startDate: "2023-01-10",
       endDate: "2023-05-15",
@@ -80,6 +87,7 @@ export default [
     {
       _id: "RS108",
       name: "Wizards, Elves, and Men: Inter-species Diplomacy in Middle-earth",
+      img_path: "/images/cat.jpeg",
       number: "ME102",
       startDate: "2023-01-10",
       endDate: "2023-05-15",
@@ -92,6 +100,7 @@ export default [
     {
       _id: "RS109",
       name: "History and Practice of Middle-earth Magic",
+      img_path: "/images/dog.jpeg",
       number: "ME103",
       startDate: "2023-01-10",
       endDate: "2023-05-15",
@@ -103,6 +112,7 @@ export default [
     },
     {
       _id: "RS110",
+      img_path: "/images/singapore.jpeg",
       name: "Principles of Democratic Education",
       number: "EDU201",
       startDate: "2023-01-10",
@@ -114,6 +124,7 @@ export default [
     },
     {
       _id: "RS111",
+      img_path: "/images/cat.jpeg",
       name: "Philosophy of Independence and Liberation",
       number: "HIS301",
       startDate: "2023-01-10",
@@ -125,6 +136,7 @@ export default [
     },
     {
       _id: "RS112",
+      img_path: "/images/dog.jpeg",
       name: "Innovations in Early 19th Century Education",
       number: "EDU303",
       startDate: "2023-01-10",
@@ -137,6 +149,7 @@ export default [
     {
       _id: "RS113",
       name: "Foundations of Christian Ethics",
+      img_path: "/images/singapore.jpeg",
       number: "THEO101",
       startDate: "2023-01-10",
       endDate: "2023-05-15",
@@ -148,6 +161,7 @@ export default [
     },
     {
       _id: "RS114",
+      img_path: "/images/cat.jpeg",
       name: "Early Christianity and the Apostolic Age",
       number: "HIS201",
       startDate: "2023-01-10",
@@ -160,6 +174,7 @@ export default [
     },
     {
       _id: "RS115",
+      img_path: "/images/dog.jpeg",
       name: "Leadership and Service in Christian Communities",
       number: "MIN301",
       startDate: "2023-01-10",
@@ -172,6 +187,7 @@ export default [
     },
     {
       _id: "RS116",
+      img_path: "/images/singapore.jpeg",
       name: "Sufi Philosophy and Mystical Traditions",
       number: "ISL301",
       startDate: "2023-01-10",
@@ -184,6 +200,7 @@ export default [
     },
     {
       _id: "RS117",
+      img_path: "/images/cat.jpeg",
       name: "Ethical Wisdom in Islamic Teachings",
       number: "ISL202",
       startDate: "2023-01-10",
@@ -196,6 +213,7 @@ export default [
     },
     {
       _id: "RS118",
+      img_path: "/images/dog.jpeg",
       name: "Understanding the Unseen: Islamic Esotericism",
       number: "ISL403",
       startDate: "2023-01-10",
@@ -208,6 +226,7 @@ export default [
     },
     {
       _id: "RS119",
+      img_path: "/images/singapore.jpeg",
       name: "Ancient Chinese Environmental Management",
       number: "ENV101",
       startDate: "2023-01-10",
@@ -219,6 +238,7 @@ export default [
     },
     {
       _id: "RS120",
+      img_path: "/images/cat.jpeg",
       name: "Leadership Lessons from Chinese Mythology",
       number: "MGT201",
       startDate: "2023-01-10",
@@ -230,6 +250,7 @@ export default [
     },
     {
       _id: "RS121",
+      img_path: "/images/dog.jpeg",
       name: "Hydraulic Engineering in Ancient Civilizations",
       number: "ENG303",
       startDate: "2023-01-10",
